@@ -1,0 +1,42 @@
+.st1 {
+    width: 500px;
+    height: 40px;
+    background-color: aquamarine;
+    border: 5px solid rgb(240, 74, 13);
+    padding: 10px;
+}
+.st2 {
+    width: 500px;
+    height: 60px;
+    background-color: aquamarine;
+    border: 5px solid rgb(240, 74, 13);
+    padding: 10px;
+}
+.st3 {
+    width: 500px;
+    height: 110px;
+    background-color: aquamarine;
+    border: 5px solid rgb(240, 74, 13);
+    padding: 10px;
+}
+.stxt1 {
+    width: 80px;
+    height: 20px;
+    /* background-color: aquamarine; */
+    border: 5px solid rgb(40, 6, 234);
+    padding: 1px;
+}
+.stxt2 {
+    width: 100px;
+    height: 20px;
+    /* background-color: aquamarine; */
+    border: 5px solid rgb(40, 6, 234);
+    padding: 1px;
+}
+.stxt3 {
+    width: 80px;
+    height: 20px;
+    /* background-color: aquamarine; */
+    border: 5px solid rgb(40, 6, 234);
+    padding: 1px;
+}
